@@ -322,7 +322,7 @@ this is V1 content
 
 ### Recap
 
-Wow~~ We finished our first tutorial! In this section we learn to set up Git enviornoment on our laptop, created our first local repository, recorded file changes as commits and learnt to switch between different commits.
+Wow~~~ We finished our first tutorial! In this section we learn to set up Git enviornoment on our laptop, created our first local repository, recorded file changes as commits and learnt to switch between different commits.
 
 The Git command we have used so far
 
